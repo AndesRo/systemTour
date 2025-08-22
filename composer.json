@@ -1,0 +1,19 @@
+{
+    "name": "andes/miproyecto",
+    "autoload": {
+        "psr-4": {
+            "Andes\\Miproyecto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andres",
+            "email": "andespart@yahoo.com"
+        }
+    ],
+    "require": {
+        "setasign/fpdf": "^1.8",
+        "phpoffice/phpspreadsheet": "^2.1",
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
